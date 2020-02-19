@@ -1,0 +1,17 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  border-radius: 5px;
+}
+
+.thought {
+  padding: 20px;
+}
+
+button {
+  margin: 10px;
+  border-radius: 5px;
+}

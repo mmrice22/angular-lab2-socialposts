@@ -1,0 +1,13 @@
+.post {
+  background-color: white;
+  position: relative;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+button {
+  position: absolute;
+  bottom: -10px;
+  right: -20px;
+}
